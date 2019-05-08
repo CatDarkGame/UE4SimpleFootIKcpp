@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "4.21",
+  "Category": "",
+  "Description": "Copyright(c) 2019 CatDark, All Rights Reserved.",
+  "Modules": [
+    {
+      "Name": "SimpleFootIK",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "AdditionalDependencies": [
+        "Engine",
+        "CoreUObject"
+      ]
+    }
+  ]
+}
