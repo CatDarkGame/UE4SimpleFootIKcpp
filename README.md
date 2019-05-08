@@ -7,6 +7,8 @@ UE4 Simple FootIK with C++ Project.
 
 ## About
 
+I'm CatDark. 
+
 This project is simple foot ik with full C++ on UE4. 
 
 Thank you!
